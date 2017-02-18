@@ -3,7 +3,7 @@
  * Copyright 2012 WooThemes
  * Contributing Author: Tyler Smith
  */
-;
+var jQuery = require("jquery");
 (function ($) {
 
   var focused = true;
