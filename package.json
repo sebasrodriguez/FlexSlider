@@ -1,6 +1,6 @@
 {
   "name": "sebasrodriguez-flexslider",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "An awesome, fully responsive jQuery slider toolkit. Webpack friendly",
   "main": "jquery.flexslider.js",
   "scripts": {
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/sebasrodriguez/FlexSlider#readme",
   "dependencies": {
-    "jquery": ">=1.11.3"
+    "jquery": "^2.2.4"
   }
 }
